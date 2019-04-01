@@ -1,0 +1,31 @@
+{
+  "name": "react-playground",
+  "version": "1.0.0",
+  "description": "Samer Senbol",
+  "main": "Hello Samer ",
+  "scripts": {
+    "test": "react start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "react-play-around"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "Samer",
+  "license": "ISC",
+  "devDependencies": {
+    "awesome-typescript-loader": "^5.2.1",
+    "source-map-loader": "^0.2.4",
+    "typescript": "^3.4.1",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  },
+  "dependencies": {
+    "@types/react": "^16.8.10",
+    "@types/react-dom": "^16.8.3",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}

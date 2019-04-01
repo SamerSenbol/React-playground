@@ -1,5 +1,7 @@
 {
     "compilerOptions": {
+        "allowSyntheticDefaultImports": true,
+        "esModuleInterop": true,
         "outDir": "./dist/",
         "sourceMap": true,
         "noImplicitAny": true,
@@ -8,6 +10,6 @@
         "jsx": "react"
     },
     "include": [
-        "./src/**/*"
+        "./src/**/*", "css.tsx"
     ]
 }
